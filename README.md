@@ -1,3 +1,1 @@
-# Unplanned-Collective
-
-We do code?
+Organisation info and readme container
